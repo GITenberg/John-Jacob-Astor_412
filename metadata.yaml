@@ -1,0 +1,30 @@
+_repo: John-Jacob-Astor_412
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: 'Series: Little Journeys to the Homes of the Great'
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Businessmen -- United States -- Biography'
+- !lcsh 'Astor, John Jacob, 1763-1848'
+- GITenberg
+title: John Jacob Astor
+url: http://www.gutenberg.org/ebooks/412
