@@ -1,5 +1,8 @@
 _repo: John-Jacob-Astor_412
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hubbard, Elbert
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: 'Series: Little Journeys to the Homes of the Great'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/412#John-Jacob-Astor
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
